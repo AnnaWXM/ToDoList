@@ -10,7 +10,7 @@ Server address: 172.16.5.193
 
 Team members: Ilkka Niemi, Xiaomin Wu
 
-Project Date: November 2022 to February 2023
+Project Date: November 2022 to January 2023
 
 
 ## Instructions for running the application locally
@@ -81,4 +81,6 @@ Project Date: November 2022 to February 2023
 
 ## Technology
 
-HTML, CSS, Javascript, Docker, CI/CD Pipelines, Virtual Machine(VM) & Remote Server, Node, GitHub Flow, React, Testing
+HTML, CSS, Javascript, 
+
+Docker, CI/CD Pipelines, Virtual Machine(VM) & Remote Server, Node, GitHub Flow, React, Testing
